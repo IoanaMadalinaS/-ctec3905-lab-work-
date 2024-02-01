@@ -1,0 +1,35 @@
+
+  
+  
+  
+  nav {
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    padding: 20px;
+    box-sizing: border-box;
+    float: right; 
+    flex-shrink: 0; 
+  }
+  
+  section {
+    padding: 20px;
+    overflow: auto; 
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: black;
+    margin-bottom: 10px;
+  }
+  
+  header {
+    background-color: rgb(240, 194, 194);
+  }
+  
+  main {
+    display: flex; 
+    background-color: rgb(204, 195, 195);
+  }
+  
+  
